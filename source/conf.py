@@ -14,7 +14,7 @@ author = 'C'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-'myst_parser','sphinx_markdown_tables',
+'myst_parser',
 ]
 
 source_suffix = {
